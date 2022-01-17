@@ -1,16 +1,30 @@
-# shamo
 
-A new Flutter project.
+# Shamo App
 
-## Getting Started
+Shamo App adalah sebuah aplikasi DEMO yang dibangun dengan Flutter. Aplikasi ini bertujuan untuk menjual produk-produk terutama sepatu dengan cara yang mudah, efisien.
+Pembeli hanya melakukan pendaftaran pada aplikasi, lalu melakukan checkout pada produk yang diinginkan.
+Ditambah dengan adanya fitur chat antara pembeli dan penjual memudahkan komunikasi, fitur chatting ini dibangun dengan teknologi Firebase.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini saya buat berdasarkan kelas online yang saya ikuti di buildwithangga.com
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tech Stack
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Client:** Flutter
+
+**Server:** Laravel, Firebase
+
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/dztxktfxr/image/upload/v1642429225/slide_2_gpuwwd.png)
+
+![App Screenshot](https://res.cloudinary.com/dztxktfxr/image/upload/v1642429234/slide_3_vedinl.png)
+
+![App Screenshot](https://res.cloudinary.com/dztxktfxr/image/upload/v1642429237/slide_4_i2vyas.png)
+
+
+## Deployment
+
+Aplikasi ini masih tahap demo, dan segera akan diupload ke playstore
+
